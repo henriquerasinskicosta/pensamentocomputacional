@@ -1,1 +1,4 @@
 # pensamentocomputacional
+
+
+Henrique Rasinski Costa 
